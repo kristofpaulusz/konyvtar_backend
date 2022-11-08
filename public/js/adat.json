@@ -1,0 +1,29 @@
+{
+    "konyv":[
+    {
+        "id": 1,
+        "cim":"Pál utcai fiúk",
+        "szerzo":"Molnár Ferenc",
+        "ar":1115
+    },
+    {
+        "id": 2,
+        "cim":"A programozás rejtelmei",
+        "szerzo":"Gipsz Jakab",
+        "ar":2000
+    },
+    {
+        "id": 3,
+        "cim":"A rút kiskacsa",
+        "szerzo":"C. H. Andersen",
+        "ar":1500
+    },
+    {
+        "id": 4,
+        "cim":"C. S. Lewis",
+        "szerzo":"Narnia",
+        "ar":1500
+    }
+    
+    ]
+}

@@ -1,0 +1,37 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+body {
+    width: 85%;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+.torol {
+    background-color: red;
+    color: white;
+    float: left;
+}
+.torol:hover {
+    background-color: brown;
+}
+.modos {
+    float: right;
+    background-color: lightblue;
+    color: white;
+}
+.modos:hover {
+    background-color: aqua;
+    color: black;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+}
